@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'educatrice_front';
+  title = 'Bienvenue dans le système de gestion de la garderie Touty Tank!';
 }
